@@ -16,7 +16,9 @@
 
 <br>
 
-**🇹🇷 [Türkçe](#-türkçe) &nbsp;•&nbsp; 🇬🇧 [English](#-english)**
+[![Türkçe](https://img.shields.io/badge/🇹🇷%20Türkçe-6E78F7?style=for-the-badge&labelColor=2b2b3d)](#-türkçe)
+&nbsp;
+[![English](https://img.shields.io/badge/🇬🇧%20English-2b2b3d?style=for-the-badge&labelColor=2b2b3d)](#-english)
 
 </div>
 
