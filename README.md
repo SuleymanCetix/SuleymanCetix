@@ -1,39 +1,63 @@
-# Merhaba, ben Süleyman 👋
+<div align="center">
 
-Yazılım ve tasarımla uğraşan biriyim. Hem kod yazmayı hem de işin görsel tarafını seviyorum — arada backend tarafına da bulaşıyorum.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Süleyman%20Çetix&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Design&descAlignY=58&descSize=22" />
 
-- 🎨 Tasarım ve geliştirmeyi bir arada götürüyorum
-- 🌱 Sürekli yeni şeyler öğrenmeye çalışıyorum
-- 💬 Yazılım, tasarım veya proje fikirleri için bana yazabilirsin
+<br>
 
----
+<a href="https://github.com/SuleymanCetix">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=6E78F7&center=true&vCenter=true&width=600&lines=Yaz%C4%B1l%C4%B1m+ve+tasar%C4%B1mla+u%C4%9Fra%C5%9F%C4%B1yorum;Kod+yazmay%C4%B1+ve+g%C3%B6rseli+bir+arada+seviyorum;S%C3%BCrekli+yeni+%C5%9Feyler+%C3%B6%C4%9Freniyorum" alt="Typing SVG" />
+</a>
 
-### 🛠️ Kullandığım Teknolojiler
+</div>
 
-**Geliştirme**
+<br>
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
 
-**Tasarım**
+> Hem kodun hem de işin görsel tarafının peşindeyim.  
+> Tasarımı geliştirmeyle birleştirmeyi, arada backend tarafına da uzanmayı seviyorum.
 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=adobexd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+</div>
 
----
+<br>
 
-### 🔗 Bana Ulaş
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI_ADIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/KULLANICI_ADIN)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KULLANICI_ADIN)
-[![Website](https://img.shields.io/badge/Web%20Sitesi-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://SITE_ADRESIN.com)
+## ⚡ Tech Stack
+
+</div>
+
+<div align="center">
+
+### Development
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Design
+
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
+  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-2D0040?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
