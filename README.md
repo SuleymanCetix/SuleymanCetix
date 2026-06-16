@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=200&section=header&text=Süleyman%20Çetix&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42" />
-
-### 🎨 Designer • Developer &nbsp;·&nbsp; 📍 Kayseri, Türkiye
-
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=900&color=E63946&center=true&vCenter=true&width=520&height=45&lines=Merhaba!;Hello!;%C2%A1Hola!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B" alt="greeting" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=900&color=14B8A6&center=true&vCenter=true&width=520&height=50&lines=Merhaba!;Hello!;%C2%A1Hola!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B" alt="greeting" />
 
 </div>
 
@@ -20,7 +16,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📍%20Kayseri,%20Türkiye-E63946?style=for-the-badge&labelColor=20232a" />
+<img src="https://img.shields.io/badge/📍%20Kayseri,%20Türkiye-14B8A6?style=for-the-badge&labelColor=0d1117" />
 
 </td>
 <td width="440">
@@ -30,8 +26,8 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/🎓%20Yeni%20Mezun-E63946?style=for-the-badge&labelColor=20232a" />
-<img src="https://img.shields.io/badge/GitHub'da%20Yeniyim-E63946?style=for-the-badge&logo=github&logoColor=white&labelColor=20232a" />
+<img src="https://img.shields.io/badge/🎓%20Yeni%20Mezun-14B8A6?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/GitHub'da%20Yeniyim-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 
 <br><br>
 
@@ -51,7 +47,7 @@ Yeni mezun bir **tasarımcı-geliştiriciyim**. Fikirleri önce çizer, sonra ko
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E63946&height=3&width=85%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=14B8A6&height=3&width=85%" />
 
 # 🧰 Neler Kullanıyorum
 
@@ -91,7 +87,7 @@ Yeni mezun bir **tasarımcı-geliştiriciyim**. Fikirleri önce çizer, sonra ko
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E63946&height=3&width=85%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=14B8A6&height=3&width=85%" />
 
 # 🏆 GitHub
 
@@ -101,16 +97,16 @@ Yeni mezun bir **tasarımcı-geliştiriciyim**. Fikirleri önce çizer, sonra ko
 <tr>
 <td align="center" width="640">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SuleymanCetix&show_icons=true&hide_border=true&bg_color=00000000&title_color=E63946&icon_color=E63946&text_color=9f9f9f" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanCetix&layout=compact&hide_border=true&bg_color=00000000&title_color=E63946&text_color=9f9f9f&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SuleymanCetix&show_icons=true&hide_border=true&bg_color=00000000&title_color=14B8A6&icon_color=14B8A6&text_color=9f9f9f" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanCetix&layout=compact&hide_border=true&bg_color=00000000&title_color=14B8A6&text_color=9f9f9f&langs_count=8" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SuleymanCetix&hide_border=true&background=00000000&ring=E63946&fire=E63946&currStreakNum=ffffff&currStreakLabel=E63946&sideNums=ffffff&sideLabels=9f9f9f&dates=8b8b8b&stroke=E63946" />
+<img src="https://streak-stats.demolab.com?user=SuleymanCetix&hide_border=true&background=00000000&ring=14B8A6&fire=14B8A6&currStreakNum=ffffff&currStreakLabel=14B8A6&sideNums=ffffff&sideLabels=9f9f9f&dates=8b8b8b&stroke=14B8A6" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SuleymanCetix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=E63946&text_color=9f9f9f&icon_color=E63946" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=SuleymanCetix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=14B8A6&text_color=9f9f9f&icon_color=14B8A6" alt="trophies" />
 
 </td>
 </tr>
@@ -120,8 +116,8 @@ Yeni mezun bir **tasarımcı-geliştiriciyim**. Fikirleri önce çizer, sonra ko
 
 <div align="center">
 
-<i>✨ Tasarımı koda, fikri arayüze dönüştürüyorum ✨</i>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=14B8A6&height=3&width=85%" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=130&section=footer" />
+<i>✨ Tasarımı koda, fikri arayüze dönüştürüyorum ✨</i>
 
 </div>
