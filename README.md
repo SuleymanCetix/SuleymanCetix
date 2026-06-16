@@ -4,6 +4,10 @@
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=SuleymanCetix&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=6E78F7&style=flat-square" alt="profile views" />
+
+<br><br>
+
 <a href="https://github.com/SuleymanCetix">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=6E78F7&center=true&vCenter=true&width=600&lines=Yaz%C4%B1l%C4%B1m+ve+tasar%C4%B1mla+u%C4%9Fra%C5%9F%C4%B1yorum;Kod+yazmay%C4%B1+ve+g%C3%B6rseli+bir+arada+seviyorum;S%C3%BCrekli+yeni+%C5%9Feyler+%C3%B6%C4%9Freniyorum" alt="Typing SVG" />
 </a>
@@ -12,22 +16,44 @@
 
 <br>
 
-<div align="center">
+## 🧑‍💻 Hakkımda
 
-> Hem kodun hem de işin görsel tarafının peşindeyim.  
-> Tasarımı geliştirmeyle birleştirmeyi, arada backend tarafına da uzanmayı seviyorum.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-</div>
+Merhaba! Ben Süleyman — işin hem kod hem de tasarım tarafıyla ilgilenen biriyim. Bir arayüzü sıfırdan tasarlayıp ardından onu hayata geçirmeyi, iki dünyayı birleştirmeyi seviyorum.
+
+- 🎨 Tasarım ve geliştirmeyi bir arada yürütüyorum
+- 🧩 Kullanıcı deneyimine ve detaylara önem veriyorum
+- 🌱 Sürekli yeni teknolojiler öğreniyorum
+- ⚙️ Arada backend tarafına da uzanıyorum
+- 💬 Yeni projeler ve iş birlikleri için her zaman açığım
+
+</td>
+<td valign="top" width="50%">
+
+**🎯 Odaklandıklarım**
+
+`Frontend` &nbsp;`UI / UX Tasarım` &nbsp;`Web Geliştirme`
+
+**🛠️ Yaptıklarım**
+
+`Arayüz Tasarımı` &nbsp;`Görsel Çalışmalar` &nbsp;`Video Düzenleme` &nbsp;`Web Uygulamaları`
+
+**🚀 Şu sıralar**
+
+React ekosistemini derinleştiriyor, tasarım ile geliştirme arasındaki köprüyü güçlendiriyorum.
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
 ## ⚡ Tech Stack
-
-</div>
-
-<div align="center">
 
 ### Development
 
@@ -51,6 +77,25 @@
   <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
   <img src="https://img.shields.io/badge/Premiere%20Pro-2D0040?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
 </p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🏆 GitHub Başarıları
+
+<img src="https://github-profile-trophy.vercel.app/?username=SuleymanCetix&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 
 </div>
 
