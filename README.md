@@ -31,10 +31,9 @@ Yazılım ve tasarımla uğraşan biriyim. Hem kod yazmayı hem de işin görsel
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 🔗 Bana Ulaş
 
-![Süleyman'ın istatistikleri](https://github-readme-stats.vercel.app/api?username=SuleymanCetix&show_icons=true&hide_border=true&theme=default)
-
-![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanCetix&layout=compact&hide_border=true&theme=default)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI_ADIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/KULLANICI_ADIN)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KULLANICI_ADIN)
+[![Website](https://img.shields.io/badge/Web%20Sitesi-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://SITE_ADRESIN.com)
