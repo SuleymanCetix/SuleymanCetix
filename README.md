@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=230&section=header&text=Süleyman%20Çetix&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Designer%20%26%20Developer%20•%20Kayseri,%20Türkiye&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=200&section=header&text=Süleyman%20Çetix&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42" />
+
+### 🎨 Designer • Developer &nbsp;·&nbsp; 📍 Kayseri, Türkiye
 
 <br>
 
