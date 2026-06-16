@@ -51,27 +51,72 @@ Yeni mezun bir **tasarımcı-geliştiriciyim**. Fikirleri önce çizer, sonra ko
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E63946&height=3&width=85%" />
 
-## 🧰 Neler Kullanıyorum
+# 🧰 Neler Kullanıyorum
 
-**Geliştirme · Development**
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="640">
+
+**💻 Geliştirme · Development**
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,ts,react,php,html,css&theme=dark" />
 
-**Tasarım · Design**
+<sub>Web ve uygulama geliştirmede kullandığım diller ve framework'ler</sub>
 
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,figma&theme=dark" />
+<br><br>
 
-**Araçlar · Tools**
+**🎨 Tasarım · Design**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&theme=dark" />
+
+<sub>Arayüz tasarımı, görsel işler ve video düzenleme</sub>
+
+<br><br>
+
+**🛠️ Araçlar · Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vs&theme=dark" />
+
+<sub>Günlük iş akışımı yürüttüğüm araçlar</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E63946&height=3&width=85%" />
 
-## 🏆 GitHub
+# 🏆 GitHub
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="640">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SuleymanCetix&show_icons=true&hide_border=true&bg_color=00000000&title_color=E63946&icon_color=E63946&text_color=9f9f9f" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanCetix&layout=compact&hide_border=true&bg_color=00000000&title_color=E63946&text_color=9f9f9f&langs_count=8" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=SuleymanCetix&hide_border=true&background=00000000&ring=E63946&fire=E63946&currStreakNum=ffffff&currStreakLabel=E63946&sideNums=ffffff&sideLabels=9f9f9f&dates=8b8b8b&stroke=E63946" />
+
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=SuleymanCetix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=E63946&text_color=9f9f9f&icon_color=E63946" alt="trophies" />
 
-<br><br>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 <i>✨ Tasarımı koda, fikri arayüze dönüştürüyorum ✨</i>
 
